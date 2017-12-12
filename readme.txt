@@ -4,3 +4,4 @@ I want to learn git now.
 Let's do it.
 
 Git has a mutable index called stage.
+....
